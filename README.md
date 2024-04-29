@@ -34,3 +34,11 @@ Before attending the workshop, please ensure you have:
    Download and run Ollama with the llama3:8b model.\
    https://ollama.com/ \
    follow the installation guide here.
+
+4.  **Run the Example** \
+   ```
+   python agent_example.py
+   ```
+
+5.  **Modify the Example to a use case of your choice** \
+
