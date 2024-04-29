@@ -35,10 +35,10 @@ Before attending the workshop, please ensure you have:
    https://ollama.com/ \
    follow the installation guide here.
 
-4.  **Run the Example** \
+4.  **Run the Example**
    ```
    python agent_example.py
    ```
 
-5.  **Modify the Example to a use case of your choice** \
+5.  **Modify the Example to a use case of your choice**
 
