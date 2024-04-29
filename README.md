@@ -31,6 +31,6 @@ Before attending the workshop, please ensure you have:
    ```
    
 3.  **Set Up Your Environment**
-   Download and run Ollama with the llama3:8b model.
-   https://ollama.com/
+   Download and run Ollama with the llama3:8b model.\
+   https://ollama.com/ \
    follow the installation guide here.
